@@ -25,7 +25,7 @@
         "cweagans/composer-patches": "^1.6",
         "drupal-composer/drupal-scaffold": "^2.2",
         "drupal-composer/drupal-project": "^8.0",
-        "monkfish-fr/monkfish_starter": "dev-master"
+        "monkfish-fr/monkfish_starter": "^1.0"
     },
     "require-dev": {
         "behat/mink": "~1.7",
