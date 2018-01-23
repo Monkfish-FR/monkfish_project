@@ -16,8 +16,8 @@
             "url": "https://packages.drupal.org/8"
         },
         {
-            "type": "git",
-            "url": "git://github.com/Monkfish-FR/monkfish_starter.git"
+            "type": "vcs",
+            "url": "https://github.com/Monkfish-FR/monkfish_starter"
         }
     ],
     "require": {
