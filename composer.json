@@ -25,7 +25,7 @@
         "drush/drush": "~8.0|^9.0.0-beta8",
         "webflo/drupal-finder": "^1.0.0",
         "webmozart/path-util": "^2.3",
-        "monkfish-fr/monkfish_starter": "^1.0"
+        "monkfish-fr/monkfish_starter": "dev-master"
     },
     "require-dev": {
         "behat/mink": "~1.7",
