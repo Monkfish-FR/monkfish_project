@@ -41,7 +41,6 @@
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "enable-patching": true,
     "config": {
         "sort-packages": true
     },
@@ -73,6 +72,7 @@
             "web/profiles/contrib/{$name}": ["type:drupal-profile"],
             "web/themes/contrib/{$name}": ["type:drupal-theme"],
             "drush/contrib/{$name}": ["type:drupal-drush"]
-        }
+        },
+        "enable-patching": true
     }
 }
